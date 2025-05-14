@@ -1,3 +1,3 @@
-sadrzaj readme fajla
-prikazuje se automatski
+sadrzaj readme fajla \n
+prikazuje se automatski \n
 na prvoj strani
