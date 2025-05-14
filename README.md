@@ -1,1 +1,3 @@
-gde ce ovo da se ispise??
+sadrzaj readme fajla
+prikazuje se automatski
+na prvoj strani
