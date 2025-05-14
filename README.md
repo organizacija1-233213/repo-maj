@@ -1,7 +1,6 @@
 
-# My Simple File 1
+# A first-level heading
+## A second-level heading
+### A third-level heading
 
-## My Simple File 2
-
-
-This is a basic two-line Markdown file.
+Normal text
